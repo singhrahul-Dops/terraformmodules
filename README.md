@@ -1,2 +1,4 @@
 # terraformmodules
-Reusablke terraform modules
+Reusable terraform modules : 
+a. Create Vnet
+b. Create Vm
